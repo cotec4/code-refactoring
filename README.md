@@ -1,1 +1,2 @@
 # code-refactoring
+In this project, I needed to reduce the redundancies and inefficiencies in both the HTML and CSS files provided to me. The focus of this project was on ensuring the HTML had specific sections (e.g. header, footer, section, aside, etc.) while removing redundancies in the CSS file.
